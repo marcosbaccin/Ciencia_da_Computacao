@@ -1,0 +1,1 @@
+titulo2; autor2; editora2; 2002; 126.75999999999999; 0.63; 487; gênero; mole
