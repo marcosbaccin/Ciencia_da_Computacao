@@ -1,19 +1,24 @@
 ## Cadastro de Livros
 
 Elabore um programa que realizará um cadastro de livros com os seguintes atributos:
-a. Título;
-b. Autor;
-c. Editora;
-d. Ano;
-e. Preço;
-f. Peso;
-g. Quantidade de páginas;
-h. Gênero;
-i. Capa (boolean 0 e 1), 0. capa mole, 1. capa dura;
+<ul>
+  <li>Título</li>
+  <li>Autor</li>
+  <li>Editora</li>
+  <li>Ano</li>
+  <li>Preço</li>
+  <li>Peso</li>
+  <li>Quantidade de páginas</li>
+  <li>Gênero</li>
+  <li>Capa (boolean 0 e 1), 0. capa mole, 1. capa dura</li>
+</ul>
+
 OBS: caso o livro seja capa mole o preço cai 20%. vc deverá usar estruturas heterogeneas. opções do menu:
-1.inicializar;
-2.cadastrar;
-3.imprimir;
-4.gravar em txt;
-5.mostrar todos os registros;
-6.sair.
+<ol>
+  <li>inicializar</li>
+  <li>cadastrar</li>
+  <li>imprimir</li>
+  <li>gravar em txt</li>
+  <li>mostrar todos os registros</li>
+  <li>sair</li>
+</ol>
