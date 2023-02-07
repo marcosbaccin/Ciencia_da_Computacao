@@ -6,4 +6,5 @@ Neste repositório colocarei tudo que aprendi e desenvolvi no curso de Ciência 
 <li>LPT (Linguagens e Técnicas de Programação)</li>
 <li>ED (Estrura de Dados)</li>
 <li>SD (Sistemas Digitais)</li>
+<li>POO (Programação Orientada a Objetos)</li>
 </ul>
